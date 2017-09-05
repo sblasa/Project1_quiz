@@ -1,0 +1,39 @@
+
+body {
+    background-color: white;
+    color: gainsboro;
+
+}
+
+header {
+
+    background-color: white;
+}
+
+
+.navbar-brand {
+    padding: 0px;
+    background-color: white;    
+}
+
+.navbar-nav {
+    /*height: 110px; */
+    color: gainsboro;   
+    background-color: white;
+    font-size: 1.5em;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    background-color: white;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: gainsboro;
+    
+}
+main {
+    background-color: darkkhaki;
+    clear: both;
+
+}
