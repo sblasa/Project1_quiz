@@ -10,7 +10,17 @@ header {
     background-color: white;
 }
 
+div.first-div {
+    background-color: bisque;
+}
 
+div.second-div {
+    background-color: silver;
+}
+
+div.third-div {
+    background-color: whitesmoke;
+} 
 .navbar-brand {
     padding: 0px;
     background-color: white;    
