@@ -3,3 +3,5 @@ var myTwoNumbers = function myTwoNumbers(firstNum, secondNum) {
 };
 
 console.log(myTwoNumbers(2, 3));
+
+
